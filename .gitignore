@@ -12,8 +12,8 @@ pids
 .idea
 .vscode
 
-# build
-# public
+build
+public
 
 # cache
 .cache
